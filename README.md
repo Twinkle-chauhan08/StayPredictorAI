@@ -132,7 +132,7 @@ The trained model was integrated into a Streamlit application that allows users 
 ## Repository Structure
 
 ```text
-202618049_Lab_04/
+StayPredictorAI/
 
 ├── Airbnb_Price_Prediction.ipynb    # Main Jupyter Notebook
 ├── app.py                           # Streamlit Application
